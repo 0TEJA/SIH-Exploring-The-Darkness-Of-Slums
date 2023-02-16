@@ -1,0 +1,14 @@
+*:focus {
+  box-shadow: none !important;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 10px;
+}
+.grid label{
+  width:110px;
+}
+
+
+ 
